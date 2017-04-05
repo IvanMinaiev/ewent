@@ -1,2 +1,2 @@
-# ewent
-repository for ewent application
+This is ewent app project
+
