@@ -1,2 +1,1 @@
-This is ewent app project
-
+Чтоб запустить поиск и добавление ивентов из фесбука, нужно сделать вызов static метода FBevent.addFBevents("Название города")
