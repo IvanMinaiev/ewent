@@ -1,8 +1,3 @@
-package com.iam.ewent;
-
-/**
- * Created by tomato on 07.04.17.
- */
 
 import com.restfb.DefaultFacebookClient;
 import com.restfb.FacebookClient;
