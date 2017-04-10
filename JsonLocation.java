@@ -1,4 +1,3 @@
-package com.iam.ewent;
 
 import org.json.JSONObject;
 
